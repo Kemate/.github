@@ -1,2 +1,2 @@
-# .github
+# Kemate
 Kemate Project
